@@ -1,0 +1,10 @@
+{
+  "teacher_api_url": "http://100.99.239.75:8000/v1",
+  "teacher_model": "/mnt/shared-storage-user/zhangbo1/models/Qwen3-4B",
+  "student_api_url": "http://100.99.239.75:8000/v1",
+  "student_model": "/mnt/shared-storage-user/zhangbo1/models/Qwen3-4B",
+  "textbook_api_url": "http://100.99.239.75:8000/v1",
+  "textbook_model": "/mnt/shared-storage-user/zhangbo1/models/Qwen3-4B",
+  "evaluation_api_url": "http://100.99.239.75:8000/v1",
+  "evaluation_model": "/mnt/shared-storage-user/zhangbo1/models/Qwen3-4B"
+}

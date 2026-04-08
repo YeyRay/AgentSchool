@@ -1,0 +1,14 @@
+{
+  "command": "",
+  "info": "命令已处理",
+  "last_executed": "rollback",
+  "timestamp": "2025-11-05T07:33:37.223153",
+  "available_commands": {
+    "pause": "暂停仿真",
+    "resume": "继续仿真",
+    "status": "查看当前状态",
+    "intervene": "打断并调整教学计划（需配合intervention字段）",
+    "rollback": "回溯到第k轮（需配合rollback字段）",
+    "exit": "退出仿真"
+  }
+}

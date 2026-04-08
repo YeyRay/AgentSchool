@@ -1,0 +1,70 @@
+﻿# .gitignore
+.conda/
+teacher/model_cache/
+
+
+# Big directories and run artifacts
+logs/
+results/
+teacher/Experience/ep_vector_db/
+teacher/__pycache__/
+teacher/model_cache/
+teacher/Status/
+stu_questionnaire/
+stu_exercises/
+evaluation/analysis_output/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.pkl
+*.log
+
+# Model files
+*.model
+*.weights
+
+# Archives
+*.zip
+*.tar.gz
+
+# Environment
+.env
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Student persistence and embeddings
+student/saving/
+**/embeddings.json
+
+# Python env and tool caches
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE project files
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Generated evaluation artifacts at repo root
+*_exercise_results_*.json
+*_memory_analysis_*.json
+
+# Local model directory (if present)
+models/
+

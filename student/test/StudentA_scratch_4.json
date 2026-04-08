@@ -1,0 +1,51 @@
+{
+    "attention_level": 0.68,
+    "stress": 0.35,
+    "group": 0,
+    "current_time": "2025-05-29 08:02:30",
+    "retention": 10,
+    "name": "StudentA",
+    "age": 12,
+    "gender": "Female",
+    "personality": {
+        "Extraversion": 28,
+        "Conscientiousness": 22,
+        "Agreeableness": 17,
+        "Emotional Stability": 19,
+        "Openness to Experience": 21
+    },
+    "cognitive_state": [
+        "IRT显示数学熟练度低于自我评估（实际65% vs 自评80%）",
+        "元认知过高估计自身能力",
+        "LLM总结偏好通过实践操作加深理解"
+    ],
+    "affective_state": [
+        "中等动机，偶有挫败感",
+        "IRT与自评差距导致偶尔焦虑",
+        "LLM推断需要更多积极鼓励和阶段性成就感"
+    ],
+    "learning_style": {
+        "感知": [
+            "感官型",
+            "喜欢直观的实验和演示"
+        ],
+        "处理": [
+            "反思型",
+            "喜欢独立思考"
+        ],
+        "理解": [
+            "顺序型",
+            "按步骤系统学习"
+        ]
+    },
+    "recency_w": 1,
+    "relevance_w": 1,
+    "importance_w": 1,
+    "recency_decay": 0.99,
+    "importance_trigger_max": 50,
+    "importance_trigger_curr": 0,
+    "plan_req": [],
+    "chat_req": [],
+    "chat_with": [],
+    "chat_buffer": []
+}

@@ -1,0 +1,13 @@
+{
+    "round_time": 60,
+    "total_courses": 1,
+    "start_date": "2025-09-01",
+    "Monday": [
+        {
+            "name": "math_class",
+            "type": "class",
+            "start": "08:00",
+            "end": "08:40"
+        }
+    ]
+}

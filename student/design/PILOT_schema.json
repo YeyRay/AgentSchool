@@ -1,0 +1,140 @@
+{
+  "stability_hierarchy": {
+    "stable": {
+      "function_words": {}
+    },
+    "semi_stable": {
+      "lexical_diversity": {
+        "ttr": {}
+      },
+      "referential_cohesion": {},
+      "figurative_language": {
+        "metaphor": {},
+        "idiom": {}
+      },
+      "sentence_complexity": {
+        "average_sentence_length": {},
+        "subordination": {},
+        "embedding": {}
+      }
+    },
+    "variable": {
+      "pronouns": {
+        "personal_pronouns": {
+          "first_person_singular": {},
+          "first_person_plural": {},
+          "second_person": {},
+          "third_person_singular": {},
+          "third_person_plural": {}
+        },
+        "impersonal_pronouns": {}
+      },
+      "determiners": {
+        "articles": {},
+        "numbers": {}
+      },
+      "parts_of_speech": {
+        "prepositions": {},
+        "auxiliary_verbs": {},
+        "adverbs": {},
+        "conjunctions": {},
+        "negations": {},
+        "verbs": {},
+        "adjectives": {}
+      },
+      "cognitive_processes": {
+        "insight": {},
+        "causation": {},
+        "discrepancy": {},
+        "tentative": {},
+        "certainty": {},
+        "memory": {}
+      },
+      "psychological_drives": {
+        "affiliation": {},
+        "achievement": {},
+        "power": {}
+      },
+      "emotional_tone": {
+        "positive_emotion": {},
+        "negative_emotion": {
+          "anxiety": {},
+          "anger": {},
+          "sadness": {}
+        },
+        "swear_words": {}
+      },
+      "social_behavior": {
+        "prosocial": {},
+        "politeness": {},
+        "conflict": {},
+        "moralization": {},
+        "communication": {}
+      },
+      "social_references": {
+        "family": {},
+        "friends": {},
+        "female_references": {},
+        "male_references": {}
+      },
+      "abstractness": {
+        "concrete_words": {},
+        "abstract_words": {}
+      },
+      "hedging_language": {
+        "basic_hedges": {},
+        "epistemic_hedging": {},
+        "modal_hedging": {},
+        "approximation": {},
+        "attribution_hedging": {},
+        "politeness_hedging": {}
+      },
+      "discourse_markers": {},
+      "cultural_references": {
+        "politics": {},
+        "ethnicity": {},
+        "technology": {}
+      },
+      "lifestyle_domains": {
+        "leisure": {},
+        "home": {},
+        "work": {},
+        "money": {},
+        "religion": {}
+      },
+      "physical_states": {
+        "health": {
+          "illness": {},
+          "wellness": {},
+          "mental_health": {},
+          "substances": {}
+        },
+        "sexual": {},
+        "food": {},
+        "death": {}
+      },
+      "motivational_states": {
+        "need": {},
+        "want": {},
+        "reward": {},
+        "risk": {}
+      },
+      "perceptual_processes": {
+        "visual": {},
+        "auditory": {},
+        "feeling": {},
+        "motion": {},
+        "space": {}
+      },
+      "conversational_features": {
+        "informal_digital_language": {
+          "slang": {},
+          "internet_abbreviations": {}
+        },
+        "assent": {},
+        "nonfluencies": {},
+        "fillers": {}
+      }
+    }
+  }
+}

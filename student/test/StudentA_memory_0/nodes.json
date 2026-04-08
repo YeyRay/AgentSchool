@@ -1,0 +1,36 @@
+{
+    "node_1": {
+        "node_count": 1,
+        "type_count": 1,
+        "type": "thought",
+        "depth": 1,
+        "created": "2025-05-29 08:00:00",
+        "expiration": null,
+        "s": null,
+        "p": null,
+        "o": null,
+        "knowledge_tag": null,
+        "event_type": null,
+        "content": "-5是负数。收入100元记作+100，支出80元记作-80。",
+        "embedding_key": "-5是负数。收入100元记作+100，支出80元记作-80。",
+        "importance": 5,
+        "keywords": "[\"负数\", \"收入\", \"支出\", \"正数\", \"记账\"]"
+    },
+    "node_2": {
+        "node_count": 2,
+        "type_count": 1,
+        "type": "knowledge",
+        "depth": 0,
+        "created": "2025-05-29 08:00:00",
+        "expiration": null,
+        "s": null,
+        "p": null,
+        "o": null,
+        "knowledge_tag": "有理数的引入",
+        "event_type": null,
+        "content": "正数是大于0的数，例如+3和500；负数是小于0的数，例如-12和-0.7。0既不是正数也不是负数。-5是负数。收入100元记作+100，支出80元记作-80元。",
+        "embedding_key": "正数是大于0的数，例如+3和500；负数是小于0的数，例如-12和-0.7。0既不是正数也不是负数。-5是负数。收入100元记作+100，支出80元记作-80元。",
+        "importance": 7,
+        "keywords": "有理数的引入"
+    }
+}

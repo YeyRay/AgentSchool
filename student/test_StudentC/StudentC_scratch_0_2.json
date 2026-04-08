@@ -1,0 +1,54 @@
+{
+    "attention_level": 0.74,
+    "stress": 0.25,
+    "group": 0,
+    "current_time": "2025-05-29 08:03:00",
+    "retention": 15,
+    "name": "StudentC",
+    "age": 13,
+    "gender": "Female",
+    "personality": {
+        "Extraversion": 10,
+        "Conscientiousness": 18,
+        "Agreeableness": 22,
+        "Emotional Stability": 21,
+        "Openness to Experience": 16
+    },
+    "cognitive_state": [
+        "IRT显示历史熟练度略高于自我评估（实际70% vs 自评65%）",
+        "元认知稍微低估能力",
+        "LLM总结其喜欢通过案例分析理解知识"
+    ],
+    "affective_state": [
+        "较高参与度，情绪平稳",
+        "对自我能力的认知较准确",
+        "LLM推断其需要有结构化反馈以提升自信"
+    ],
+    "learning_style": {
+        "感知": [
+            "感官型",
+            "依赖具体例子"
+        ],
+        "处理": [
+            "反思型",
+            "喜欢独立阅读和笔记"
+        ],
+        "理解": [
+            "顺序型",
+            "喜欢按步骤学习"
+        ]
+    },
+    "recency_w": 1,
+    "relevance_w": 1,
+    "importance_w": 1,
+    "recency_decay": 0.99,
+    "importance_trigger_max": 50,
+    "importance_trigger_curr": 12,
+    "plan_req": [],
+    "chat_req": [],
+    "chat_with": [
+        "李老师",
+        "StudentA"
+    ],
+    "chat_buffer": [
+        
