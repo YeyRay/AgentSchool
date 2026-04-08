@@ -1,13 +1,17 @@
-# AgentSchool
+<p align="center">
+  <img src="./static/logo.png" width="280" alt="AgentSchool Logo">
+</p>
 
-**面向教育场景的多智能体仿真系统**
+<h1 align="center">AgentSchool</h1>
 
 <p align="center">
-  <a href="./README.md">English</a> •
+  <strong>面向教育场景的多智能体仿真系统</strong>
+</p>
+
+<p align="center">
+  <a href="./README.md">🌍 English</a> •
   <a href="./OBSERVER_GUIDE_ZH.md">观察者模式</a> •
-  <a href="./TESTING_GUIDE_ZH.md">测试指南</a> •
-  <a href="./OBSERVER_GUIDE.md">Observer (EN)</a> •
-  <a href="./TESTING_GUIDE.md">Testing (EN)</a>
+  <a href="./TESTING_GUIDE_ZH.md">测试指南</a>
 </p>
 
 <p align="center">

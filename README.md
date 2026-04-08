@@ -1,9 +1,15 @@
-# AgentSchool
+<p align="center">
+  <img src="./static/logo.png" width="280" alt="AgentSchool Logo">
+</p>
 
-**Multi-agent simulation for educational scenarios**
+<h1 align="center">AgentSchool</h1>
 
 <p align="center">
-  <a href="./README_ZH.md">中文</a> •
+  <strong>Multi-agent simulation for educational scenarios</strong>
+</p>
+
+<p align="center">
+  <a href="./README_ZH.md">🇨🇳 中文</a> •
   <a href="./OBSERVER_GUIDE.md">Observer mode</a> •
   <a href="./TESTING_GUIDE.md">Testing guide</a>
 </p>
