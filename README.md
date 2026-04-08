@@ -344,8 +344,6 @@ Teacher behavior, textbook preprocessing, vector retrieval, personality assets�
 |-----|----------|
 | [OBSERVER_GUIDE.md](./OBSERVER_GUIDE.md) | Observer commands, scenarios, internals, extension notes |
 | [TESTING_GUIDE.md](./TESTING_GUIDE.md) | Env setup, scripted tests, checklists |
-<!-- | [OBSERVER_GUIDE_ZH.md](./OBSERVER_GUIDE_ZH.md) | 上述观察者指南（中文） |
-| [TESTING_GUIDE_ZH.md](./TESTING_GUIDE_ZH.md) | 上述测试指南（中文） | -->
 | [student/README.md](./student/README.md) | Student subsystem overview |
 
 Treat live console output and `config/` as the source of truth for behavior and analysis.

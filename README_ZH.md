@@ -365,8 +365,6 @@ AgentSchool/
 | ---------------------------------------- | ------------------------ |
 | [OBSERVER_GUIDE_ZH.md](./OBSERVER_GUIDE_ZH.md) | 观察者命令详解、典型场景、技术细节与扩展开发提示 |
 | [TESTING_GUIDE_ZH.md](./TESTING_GUIDE_ZH.md)   | 环境准备、脚本测试流程、检查清单与排错      |
-<!-- | [OBSERVER_GUIDE.md](./OBSERVER_GUIDE.md)       | Observer guide (English) |
-| [TESTING_GUIDE.md](./TESTING_GUIDE.md)         | Testing guide (English)  | -->
 | [student/README.md](./student/README.md) | 学生子模块说明             |
 
 
